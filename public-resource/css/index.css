@@ -1,3 +1,9 @@
+.jd-red{
+    color: #FF0036
+}
+.margin-r-s{
+    margin-right: 2px;
+}
 /*==header 样式 :start==*/
 header{
     background-color: #f2f2f2;
@@ -23,6 +29,7 @@ header a:hover{
 /*==search 样式 :start==*/
 .search-brand{
     padding: 0;
+    margin-left: -48px;
 }
 div.search-form>div.row{
     height: 130px;
@@ -40,3 +47,49 @@ div.search-form button {
     color: white;
     width: 110px;
 }
+/*==search 样式 :end==*/
+/*==carouse 轮播图区域 样式 :start==*/
+.category-title{
+    background-color: #FF0036;
+    width: 200px;
+    height: 36px;
+}
+.category-title>h5{
+    line-height: 36px;
+}
+ul.category-list{
+    list-style: none;
+    padding-left: 10px !important;
+    margin: 0;
+}
+.category-list>li{
+    float: left;
+    margin-right: 10px;
+}
+.category-list>li img{
+    width: 100px;
+    height: 30px;
+}
+.category-list>li a{
+    color: black;
+    text-decoration: none;
+    line-height: 36px;
+
+}
+.category-list>li a:hover{
+    color: #FF0036;
+}
+.all-category{
+    bottom: -480px;
+    z-index: 999;
+    background: rgba(0,0,0,.55);
+    width: 200px;
+    height: 480px;
+}
+/*轮播组件*/
+div.carousel-item>img{
+    width: 1110px;
+    height: 480px;
+}
+
+/*==carouse 轮播图区域 样式 :end==*/
