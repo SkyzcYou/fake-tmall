@@ -6,10 +6,6 @@ fake-tmall
 ### 技术栈
 BootStrap 4 
 
-
-
-
-
 ### 目录结构描述
 ```
 ├─index.html # 主页html文件
@@ -20,5 +16,6 @@ BootStrap 4
     ├─libs  # 与业务逻辑无关的库
     ├─images# 项目图片文件
 ```
-
+### 项目成员
+游正材、XXX、XXX
 
