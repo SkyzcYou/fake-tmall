@@ -1,0 +1,70 @@
+/*公共样式*/
+.text-color-afour{
+    color: #666;
+}
+/*logo*/
+section#logo img{
+    width: 190px;
+    height: 27px;
+}
+/* 注册页面 */
+div.registerDiv{
+    margin: 10px 20px;
+    text-align: center;
+}
+table.registerTable{
+    color: #3C3C3C;
+    font-size: 16px;
+    table-layout: fixed;
+    margin-top: 50px;
+}
+table.registerTable td{
+    padding: 10px 30px;
+}
+table.registerTable input{
+    border: 1px solid #DEDEDE;
+    width: 213px;
+    height: 36px;
+    font-size: 14px;
+}
+table.registerTable button{
+    width: 170px;
+    height: 36px;
+    border-radius: 2px;
+    color: white;
+    background-color: #C40000;
+    border-width: 0px;
+}
+td.registerTip{
+    font-weight: bold;
+}
+td.registerTableLeftTD{
+    width: 300px;
+    text-align: right;
+}
+td.registerTableRightTD{
+    width: 300px;
+    text-align: left;
+}
+td.registerButtonTD{
+    text-align: center;
+}
+
+/*==dark-footer 样式 :start==*/
+.dark-footer{
+    width: 100%;
+    margin-top: 50px;
+}
+.dark-footer p{
+    font-size: 14px;
+    line-height: 14px;
+}
+div.df-imgbox>.img1{
+    width: 30px;
+    height: 30px;
+}
+div.df-imgbox>.img2{
+    width: 80px;
+    height: 30px;
+}
+/*==dark-footer 样式 :end==*/

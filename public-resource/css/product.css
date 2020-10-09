@@ -1,0 +1,39 @@
+
+/*==footer 样式 :start==*/
+div.guide{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+div.guide h5{
+    font-weight: bold;
+}
+div.guide p{
+    font-size: 12px;
+    line-height: 12px;
+    color: #8b8b8b;
+    margin-bottom: 8px;
+}
+img.m-tmall-qr-img{
+    width: 100px;
+    height: 100px;
+}
+/*==footer 样式 :end==*/
+/*==dark-footer 样式 :start==*/
+.dark-footer{
+    background-color: black;
+    border-top: #ff0036 3px solid;
+    width: 100%;
+}
+.dark-footer p{
+    font-size: 14px;
+    line-height: 14px;
+}
+div.df-imgbox>.img1{
+    width: 30px;
+    height: 30px;
+}
+div.df-imgbox>.img2{
+    width: 80px;
+    height: 30px;
+}
+/*==dark-footer 样式 :end==*/
