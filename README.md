@@ -3,9 +3,18 @@ fake-tmall
 仿天猫主页，前端项目。
 2020.09.25 学习小组学习任务
 
+项目名称：Fake tmall
 
-### 技术栈
-BootStrap 4 
+目标网站: https://www.tmall.com/
+
+技术栈：Html+Css+JavaScript,BootStrap4
+
+预览图：
+![image](https://skyzc-halo.oss-cn-shenzhen.aliyuncs.com/blog-img/image_1602249047235.png?x-oss-process=style/skyzc-halo-img)
+
+### 项目需求
+
+![image.png](https://skyzc-halo.oss-cn-shenzhen.aliyuncs.com/blog-img/image_1601107921800.png)
 
 ### 目录结构描述
 ```
