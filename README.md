@@ -10,7 +10,7 @@ fake-tmall
 技术栈：Html+Css+JavaScript,BootStrap4
 
 预览图：
-![image](https://skyzc-halo.oss-cn-shenzhen.aliyuncs.com/blog-img/image_1602249047235.png?x-oss-process=style/skyzc-halo-img)
+![image](https://skyzc-halo.oss-cn-shenzhen.aliyuncs.com/blog-img/image_1602249047235.png)
 
 ### 项目需求
 
